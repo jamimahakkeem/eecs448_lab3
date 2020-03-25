@@ -1,0 +1,47 @@
+
+body
+{
+  background-image: url(image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-left: 80px;
+  margin-right: 80px;
+
+}
+
+h2
+{
+  color: saddlebrown;
+  font-size: 30px;
+  font-family: monospace;
+
+}
+
+p
+{
+
+font-size: 18px;
+font-family: fantasy;
+font-weight: bold;
+}
+
+p.a
+{
+
+  font-weight: bolder;
+  font-family: cursive;
+  font-size: 22px;
+}
+
+li
+{
+  color: black;
+  font-style: oblique;
+
+}
+
+li:hover
+{
+  color:red;
+}
